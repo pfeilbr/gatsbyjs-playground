@@ -8,6 +8,8 @@ custom plugin at [`plugins/gatsby-source-random`](plugins/gatsby-source-random)
 
 ## original `README.md` from starter below
 
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
