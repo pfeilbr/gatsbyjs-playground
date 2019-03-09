@@ -1,3 +1,13 @@
+# gatsbyjs-playground
+
+learn [Gatsby](https://www.gatsbyjs.org)
+
+## Plugin
+
+custom plugin at [`plugins/gatsby-source-random`](plugins/gatsby-source-random)
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
